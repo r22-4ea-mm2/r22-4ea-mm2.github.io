@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<titkle> esercizio 1 sulle liste </title>
+</head>
+  <body>
+  <ol>
+  <li>coffee</li>
+  <li>tea</li>
+  <li>water</li>
+           <li>cookie</li>
+           <li>water</il>
+  </ol>
+  </body>
+  </html>
