@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  </head>
+  <body>
+    <table>
+     <tr>
+       <th colspan="2"> Popolazione Italia (milioni di abitanti) </th>
+       <th colspan="2"> Superficie (km quadrati) </th>
+      </tr>
+      <tr>
+        <td> Italia settentrionale </td>
+        <td> 27.774.607 </td>
+        <td rowspan=”3″> 301.340 </td>
+        <td rowspan="3"> 201,57 ab/per Km quadrati </td>
+      </tr>
+      <tr>
+        <td> Italia centrale</td>
+        <td> 11.955.642 </td>
+      </tr>
+      <tr>
+        <td> italia meridionale </td>
+        <td> 14.183.716 </td>
+      </tr>
+    </table>
+  </body>
+</html>
