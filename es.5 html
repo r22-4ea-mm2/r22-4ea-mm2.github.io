@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,12 +6,19 @@
     div.sfondo {
     background-color: #ffd480;
     }
+   
+    span.titolo {
+      font-style: italic;
+      font-weight: 900
+    }
+   
+   
     </style>
 </head>
   <body>
-    <div>
-     Saturno
-     il primo studio, condotto dai ricercatori...
+    <div class="sfondo">
+      <span class="titolo"> Saturno </span>
+     il rpimo studio, condotto dai ricercatori...
      e dell'università...
      ...
      SKR (Saturn..)
