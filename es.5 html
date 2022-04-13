@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    div.sfondo {
+    background-color: #ffd480;
+    }
+    </style>
+</head>
+  <body>
+    <div>
+     Saturno
+     il rpimo studio, condotto dai ricercatori...
+     e dell'università...
+     ...
+     SKR (Saturn..)
+    </div>
+  </body>
+</html>
